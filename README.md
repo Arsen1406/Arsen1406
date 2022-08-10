@@ -9,9 +9,12 @@
 🐍 At first I studied Python and Django on my own
 
 
-A little later I went to study professionally at Yandex Practicum. 
+A little later I went to study professionally at Yandex Practicum.
+
 Writing code is very inspiring.
-To date, my skills are: 
+
+To date, my skills are:
+
 - Python 
 - Django
 - GitHub
