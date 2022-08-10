@@ -18,6 +18,6 @@ To date, my skills are:
 - SQL 
 - HTML
  
-📫To contact me: 
-📞phone +7(962) 872-87-87 
-📧email: arsen8577711@yandex.ru
+ 📫To contact me: 
+ 📞phone +7(962) 872-87-87 
+ 📧email: arsen8577711@yandex.ru
