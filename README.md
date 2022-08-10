@@ -1,7 +1,11 @@
  👋 Hi, I’m Arsen Grigoryan
+ 
  👀 I’m interested in the profession of a Python backend developer
+ 
  🌱 I’m currently studying at Yandex Practicum
+ 
  💞️ I started studying Python and backend development in October 2021
+ 
  🐍 At first I studied Python and Django on my own
 
 
