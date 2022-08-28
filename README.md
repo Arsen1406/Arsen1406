@@ -24,7 +24,7 @@ To date, my skills are:
 
 📫To contact me: 
 ---
-📞 Tel: +7(962) 872-87-87
-⌨ Telegram: @arsen1406
-📱 WhatsApp: +7(962) 872-87-87
-📧 Email: arsen8577711@yandex.ru
+- 📞 Tel: +7(962) 872-87-87
+- ⌨ Telegram: @arsen1406
+- 📱 WhatsApp: +7(962) 872-87-87
+- 📧 Email: arsen8577711@yandex.ru
