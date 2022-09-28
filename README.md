@@ -13,6 +13,8 @@ A little later I went to study professionally at Yandex Practicum.
 
 Writing code is very inspiring.
 
+Here is my study project - http://arsengrig.pythonanywhere.com/
+
 To date, my skills are:
 ---
 - Python 
