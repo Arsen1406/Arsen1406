@@ -19,6 +19,8 @@ To date, my skills are:
 ---
 - Python 
 - Django
+- Django Rest Framework
+- Rest API
 - GitHub
 - OOP
 - SQL 
