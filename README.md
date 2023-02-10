@@ -25,6 +25,12 @@ To date, my skills are:
 - OOP
 - SQL 
 - HTML
+- Beautiful Soup
+- Selenium
+- Celery
+- Scrapy
+- Docker
+- Linux
 
 📫To contact me: 
 ---
