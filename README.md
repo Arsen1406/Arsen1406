@@ -28,7 +28,6 @@ To date, my skills are:
 - Beautiful Soup
 - Selenium
 - Celery
-- Scrapy
 - Docker
 - Linux
 
